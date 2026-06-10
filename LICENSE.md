@@ -1,4 +1,4 @@
-# 
+# Smart StarCoder 2 themes. Featuring scalable-architecture and collaborative-agents — optimized for maximum performance and efficiency.
 
 
 
